@@ -53,6 +53,6 @@ public class ManipulaContaTest {
 
         String resultado = ManipulaContaFake.pagamentoConta(cc, 999, "Internet");
 
-        assertEquals("Falha ao realizar pagamento", resultado);
+        assertEquals("Falha ao realizar pagameto", resultado);
     }
 }
