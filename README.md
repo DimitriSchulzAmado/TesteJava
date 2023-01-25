@@ -1,3 +1,3 @@
 ### TesteJava
 
-Aula de Teste de software e exercício
+Aula de Teste de software na linguagem "Java" e exercício
